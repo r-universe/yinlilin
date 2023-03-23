@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "CMplot"]
+	path = CMplot
+	url = https://github.com/cran/CMplot
+	shallow = true
+	registered = true
 [submodule "hibayes"]
 	path = hibayes
 	url = https://github.com/yinlilin/hibayes
